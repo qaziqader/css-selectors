@@ -1,0 +1,23 @@
+/* Universal selector */
+/* *{color: red;} */
+
+/* Type selector */ 
+/* single selector */
+/* span{color: red;} */
+/* multiple sector */
+ /* h1,div{color: red;} */
+
+/* class selector */
+ /* .interest{color: red;}  */
+
+ /* id selector */
+ /* #sam{color: brown;} */
+
+/* Child selector */
+ /* div>p{color: blue;} */
+
+ /*Adjacent adjacent selector  */
+ /* h+p{color: red;} */
+
+ /* General sibling selector */
+h1~p{color: green;}
